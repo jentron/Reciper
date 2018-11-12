@@ -1,4 +1,4 @@
-package com.jentronics.receiper;
+package com.jentronics.reciper;
 
 import org.junit.Test;
 

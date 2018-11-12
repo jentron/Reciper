@@ -1,4 +1,4 @@
-package com.jentronics.receiper;
+package com.jentronics.reciper;
 
 import android.support.v4.app.Fragment;
 import android.os.Bundle;

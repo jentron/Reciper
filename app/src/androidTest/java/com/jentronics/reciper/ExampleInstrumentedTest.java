@@ -1,4 +1,4 @@
-package com.jentronics.receiper;
+package com.jentronics.reciper;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
