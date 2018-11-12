@@ -6,5 +6,5 @@
 /build
 /captures
 .externalNativeBuild
-app/src/main/java/com/jentronics/receiper/Authorization.java
+app/src/main/java/com/jentronics/reciper/Authorization.java
 
