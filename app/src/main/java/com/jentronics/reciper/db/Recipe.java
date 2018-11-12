@@ -17,6 +17,7 @@ public class Recipe {
         this.title = title;
     }
 
+
     @PrimaryKey(autoGenerate = true)
     private int uid;
 
@@ -30,6 +31,13 @@ public class Recipe {
     protected String publisher_url;
     protected String title;
 
+    public int getUid() {
+        return uid;
+    }
+
+    public void setUid(int uid) {
+        this.uid = uid;
+    }
 
     public String getRecipe_id() {
         return recipe_id;
@@ -102,7 +110,7 @@ public class Recipe {
     public void setTitle(String title) {
         this.title = title;
     }
-    
+
 
     @Override
     public String toString() {
